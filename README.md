@@ -1,3 +1,7 @@
+This code is associated with the paper from Huffer et al., "Global alignment and assessment of TRP
+channel transmembrane domain
+structures to explore functional
+mechanisms". eLife, 2020. http://doi.org/10.7554/eLife.58660
 # Structural Alignment of TRP Channels
 In this project, we superimpose available structures of members of the 
 TRP channel family based on their transmembrane domains and analyze 
